@@ -1,0 +1,1 @@
+CREATE TABLE routes (id INTEGER PRIMARY KEY, driver TEXT, stops TEXT);
